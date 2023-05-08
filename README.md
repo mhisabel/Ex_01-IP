@@ -1,2 +1,2 @@
-# IFPB
-University activities.
+# Exercício 01
+Introdução à programação
